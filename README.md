@@ -1,12 +1,10 @@
 # docker-php-nginx-mysql-phpmyadmin
-project ตัวอย่างจากบทความ 
+project ຕົວຢ່າງ Docker Deploy php, mysql, nginx ແລະ phpmyadmin
 
-ทำไมถึงเลิกใช้ xampp มาใช้ Docker - Part 2: Deploy website with php, mysql, nginx and phpmyadmin
+http://tinyclass.nirankoon.com
 
-https://www.naijab.com/why-use-docker-not-xampp-part-2/
+## ວິທີເຮັດ
 
-## How to use
-
-1. clone หรือ download repo นี้ลงเครื่อง
-2. cd ไปที่ตำแหน่งของ project ที่ clone ไว้ 
-3. จากนั้นใช้คำสั่ง docker-compose up -d 
+1. clone ຫຼື download repo ລົງໄວ້ຄອມ
+2. cd ໄປຕຳແໜ່ງ project ທີ່ clone ໄວ້ 
+3. ຈາກນັ້ນໃຊ້ຄຳສັ່ງ docker-compose up -d 
